@@ -3,7 +3,7 @@ from .views import *
 
 
 urlpatterns = [
-    # url(r'', ),
+    url(r'',test ),
 ]
 
 
